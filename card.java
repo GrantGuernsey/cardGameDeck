@@ -1,8 +1,4 @@
-//**********************
-//* Grant Guernsey     *
-//* Period D           *
-//* Lab 10.1           *
-//**********************
+
 
 public class card
 {
