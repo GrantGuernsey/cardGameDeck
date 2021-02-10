@@ -1,8 +1,4 @@
-//**********************
-//* Grant Guernsey     *
-//* Period D           *
-//* Lab 10.1           *
-//**********************
+
 
 import java.util.ArrayList;
 import java.util.Random;
